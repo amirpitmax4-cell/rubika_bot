@@ -31,8 +31,7 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 
 # --- Environment Variables & Constants ---
 # توکن و آیدی عددی طبق درخواست شما ثابت شدند
-BOT_TOKEN = "8312913531:AAH3amVB1izD9kcprwQDmW0rm7iBs9LlmVQ
-"
+BOT_TOKEN = "8312913531:AAH3amVB1izD9kcprwQDmW0rm7iBs9LlmVQ"
 
 # آیدی عددی مالک ربات
 OWNER_ID = 6365669757
