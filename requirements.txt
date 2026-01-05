@@ -1,3 +1,4 @@
-requests
-sambanova
-Flask
+
+telegram-python-bot
+pymongo
+flask
