@@ -522,7 +522,7 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 pass
 
         await update.message.reply_text(
-            "👋 به خدمات مجازی TNT خوش آمدید.",
+            "به Self VIP خوش آمدید.",
             reply_markup=get_main_keyboard(user_doc)
         )
 
